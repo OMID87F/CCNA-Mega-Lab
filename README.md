@@ -54,10 +54,11 @@ The lab is still being practiced and is **not yet complete**.
 * Part 3 — IP Addresses, Layer-3 EtherChannel & HSRP
 * Part 4 — Rapid Spanning Tree Protocol
 * Part 5 — Static & Dynamic Routing
+* Part 6 — Network Services
 
 ### In Progress
 * Part 1 — Initial Setup
-* Part 6 — Network Services
+* Part 6 — Network Services (Step 10)
 * Part 7 — Security
 * Part 8 — IPv6
 * Part 9 — Wireless
@@ -67,11 +68,15 @@ The current progress checklist is maintained in `Documentation.md`.
 ## Repository Structure
 ```
 README.md
+Instructions.pdf
+Connections & IPv4 Addresses.xlsx
 Documentation.md
 Topology.png
 CCNA Mega Lab (Jeremy's IT Lab) (In Progress).pka
 ```
 * `README.md` — Project overview and current status
+* `Instructions.pdf` — Requested instructions in Lab
+* `Connections & IPv4 Addresses.xlsx` — Detailed IP Plan
 * `Documentation.md` — Detailed personal documentation and progress checklist
 * `Topology.png` — Lab topology
 * `.pka` — Packet Tracer lab file
