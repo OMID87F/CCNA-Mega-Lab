@@ -70,19 +70,19 @@ Cisco Packet Tracer`9.0.1`⬆️
 	- [x] Step 2
 	
 6. Part 6:
-	- [ ] Step 1
-	- [ ] Step 2
-	- [ ] Step 3
-	- [ ] Step 4
-	- [ ] Step 5
-	- [ ] Step 6
-	- [ ] Step 7
-	- [ ] Step 8
-	- [ ] Step 9
-	- [ ] Step 10
-	- [ ] Step 11
-	- [ ] Step 12
-	- [ ] Step 13
+	- [x] Step 1
+	- [x] Step 2
+	- [x] Step 3
+	- [x] Step 4
+	- [x] Step 5
+	- [x] Step 6
+	- [x] Step 7
+	- [x] Step 8
+	- [x] Step 9
+	- [ ] Step 10⚠️(In the end!)
+	- [x] Step 11
+	- [x] Step 12
+	- [x] Step 13
 	
 7. Part 7:
 	- [ ] Step 1
