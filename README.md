@@ -87,4 +87,5 @@ The current documentation contains dedicated sections for verification of each p
 
 ## Source
 Original lab scenario and `.pka` file:
+
 **Jeremy's IT Lab — CCNA Mega Lab**
