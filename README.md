@@ -4,7 +4,7 @@
 
 # CCNA Mega Lab
 
-> **The LAB is finished recently; but the last Verification is still remaining**⚠️
+> **The LAB is finished recently; but Verification documents are still remaining**⚠️
 
 A comprehensive CCNA practice lab based on the **CCNA Mega Lab** scenario from Jeremy's IT Lab.
 The lab brings together a wide range of CCNA topics in a single multi-site enterprise network, providing an opportunity to practice configuration, troubleshooting, and verification in Cisco Packet Tracer.
