@@ -4,7 +4,7 @@
 
 # CCNA Mega Lab
 
-> **Work in Progress**⚠️
+> **Finished Recently; but the last Verification is still remaining**⚠️
 
 A comprehensive CCNA practice lab based on the **CCNA Mega Lab** scenario from Jeremy's IT Lab.
 The lab brings together a wide range of CCNA topics in a single multi-site enterprise network, providing an opportunity to practice configuration, troubleshooting, and verification in Cisco Packet Tracer.
@@ -47,23 +47,21 @@ The scenario currently includes the following areas:
 * Wireless / WLC
 
 ## Current Progress
-The lab is still being practiced and is **not yet complete**.
+The lab is completed but I didn't get the **100% Completetion Score!**.
 
 ### Completed
+* Part 1 — Initial Setup
 * Part 2 — VLANs & Layer-2 EtherChannel
 * Part 3 — IP Addresses, Layer-3 EtherChannel & HSRP
 * Part 4 — Rapid Spanning Tree Protocol
 * Part 5 — Static & Dynamic Routing
 * Part 6 — Network Services
-
-### In Progress
-* Part 1 — Initial Setup
 * Part 6 — Network Services (Step 10)
 * Part 7 — Security
 * Part 8 — IPv6
 * Part 9 — Wireless
 
-The current progress checklist is maintained in `Documentation.md`.
+The progress checklist is maintained in `Documentation.md`.
 
 ## Repository Structure
 ```
@@ -72,7 +70,7 @@ Instructions.pdf
 Connections & IPv4 Addresses.xlsx
 Documentation.md
 Topology.png
-CCNA Mega Lab (Jeremy's IT Lab) (In Progress).pka
+CCNA Mega Lab (Jeremy's IT Lab) (Finished).pka
 ```
 * `README.md` — Project overview and current status
 * `Instructions.pdf` — Requested instructions in Lab
