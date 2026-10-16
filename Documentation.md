@@ -25,9 +25,9 @@ Cisco Packet Tracer`9.0.1`⬆️
 ### 🔸چک‌لیست
 1. Part 1:
 	- [x] Step 1
-	- [ ] Step 2⚠️(In the end!)
-	- [ ] Step 3⚠️(In the end!)
-	- [ ] Step 4⚠️(In the end!)
+	- [x] Step 2
+	- [x] Step 3
+	- [x] Step 4
 	
 2. Part 2:
 	- [x] Step 1
@@ -79,26 +79,26 @@ Cisco Packet Tracer`9.0.1`⬆️
 	- [x] Step 7
 	- [x] Step 8
 	- [x] Step 9
-	- [ ] Step 10⚠️(In the end!)
+	- [x] Step 10
 	- [x] Step 11
 	- [x] Step 12
 	- [x] Step 13
 	
 7. Part 7:
-	- [ ] Step 1
-	- [ ] Step 2
-	- [ ] Step 3
-	- [ ] Step 4
+	- [x] Step 1
+	- [x] Step 2
+	- [x] Step 3
+	- [x] Step 4
 	
 8. Part 8:
-	- [ ] Step 1
-	- [ ] Step 2
+	- [x] Step 1
+	- [x] Step 2
 	
 9. Part 9:
-	- [ ] Step 1
-	- [ ] Step 2
-	- [ ] Step 3
-	- [ ] Step 4
+	- [x] Step 1
+	- [x] Step 2
+	- [x] Step 3
+	- [x] Step 4
 ***
 ### 🔸کانفیگ‌ها
 >**نکته**:
@@ -140,9 +140,9 @@ Cisco Packet Tracer`9.0.1`⬆️
 
 ## 🔹مشکل
 
-- **مشکل**م 
+- **مشکل**م این بود که بعد از اتمام هر 9 پارت، درصدم شد`94%`و به`100%`نرسیدم‼️ 
     
-- **راه‌حل**‌ش 
+- **راه‌حل**‌ش اینه که ببینم **چرا** از دستوراتم ایراد گرفته شده؛ و ببینم که آیا **تاثیر**ی روی شبکه دارن یا نه✅ 
 
 
 
