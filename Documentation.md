@@ -103,6 +103,26 @@ Cisco Packet Tracer`9.0.1`⬆️
 ### 🔸کانفیگ‌ها
 >**نکته**:
 > بخاطر حجم زیاد کانفیگ‌ها، صرفا میتونم Export نهایی هر دستگاه رو بذارم‼️
+###### کانفیگ R1
+![[R1_running-config.txt]]
+
+###### کانفیگ CSWs
+![[CSW1_running-config.txt]]
+![[CSW2_running-config.txt]]
+
+###### کانفیگ DSWs
+![[DSW-A1_running-config.txt]]
+![[DSW-A2_running-config.txt]]
+![[DSW-B1_running-config.txt]]
+![[DSW-B2_running-config.txt]]
+
+###### کانفیگ ASWs
+![[ASW-A1_running-config.txt]]
+![[ASW-A2_running-config.txt]]
+![[ASW-A3_running-config.txt]]
+![[ASW-B1_running-config.txt]]
+![[ASW-B2_running-config.txt]]
+![[ASW-B3_running-config.txt]]
 
 
 
