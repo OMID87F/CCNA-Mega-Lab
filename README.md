@@ -71,6 +71,7 @@ Connections & IPv4 Addresses.xlsx
 Documentation.md
 Topology.png
 CCNA Mega Lab (Jeremy's IT Lab) (Finished).pka
+Final Config Files Directory
 ```
 * `README.md` — Project overview and current status
 * `Instructions.pdf` — Requested instructions in Lab
@@ -78,6 +79,7 @@ CCNA Mega Lab (Jeremy's IT Lab) (Finished).pka
 * `Documentation.md` — Detailed personal documentation and progress checklist
 * `Topology.png` — Lab topology
 * `.pka` — Packet Tracer lab file
+* `Final Config Files Directory` — Final configuration from each device.
 
 ## Verification
 Verification sections will be documented as the corresponding parts of the lab are completed.
