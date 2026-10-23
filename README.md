@@ -47,7 +47,7 @@ The scenario currently includes the following areas:
 * Wireless / WLC
 
 ## Current Progress
-The lab is completed but I didn't get the **100% Completetion Score!**.
+The lab is completed **but** I didn't get the **100% Completetion Score!**
 
 ### Completed
 * Part 1 — Initial Setup
@@ -71,7 +71,7 @@ Connections & IPv4 Addresses.xlsx
 Documentation.md
 Topology.png
 CCNA Mega Lab (Jeremy's IT Lab) (Finished).pka
-Final Config Files Directory
+Final Config Files/
 ```
 * `README.md` — Project overview and current status
 * `Instructions.pdf` — Requested instructions in Lab
@@ -79,7 +79,7 @@ Final Config Files Directory
 * `Documentation.md` — Detailed personal documentation and progress checklist
 * `Topology.png` — Lab topology
 * `.pka` — Packet Tracer lab file
-* `Final Config Files Directory` — Final configuration from each device.
+* `Final Config Files/` — Final configuration file of each device.
 
 ## Verification
 Verification sections will be documented as the corresponding parts of the lab are completed.
