@@ -3,7 +3,7 @@
 
 # CCNA Mega Lab
 
-> **The LAB has finished recently; but **Verification** documents are still in progress**⚠️
+> **The LAB has finished **recently**⚠️
 
 A comprehensive CCNA practice lab based on the **CCNA Mega Lab** scenario from Jeremy's IT Lab.
 The lab brings together a wide range of CCNA topics in a single multi-site enterprise network, providing an opportunity to practice configuration, troubleshooting, and verification in Cisco Packet Tracer.
@@ -71,6 +71,7 @@ Documentation.md
 Topology.png
 CCNA Mega Lab (Jeremy's IT Lab) (Finished).pka
 Final Config Files/
+Verifications/
 ```
 * `README.md` — Project overview and current status
 * `Instructions.pdf` — Requested instructions in Lab
@@ -79,10 +80,10 @@ Final Config Files/
 * `Topology.png` — Lab topology
 * `.pka` — Packet Tracer lab file
 * `Final Config Files/` — Final configuration file of each device.
+* `Verifications/` — Verifications of each part
 
 ## Verification
-Verification sections will be documented as the corresponding parts of the lab are completed.
-The current documentation contains dedicated sections for verification of each part, which will be expanded during the remaining work.
+The current documentation contains dedicated sections for verification of each part.
 
 ## Source
 Original lab scenario and `.pka` file:
