@@ -128,31 +128,129 @@ Cisco Packet Tracer`9.0.1`⬆️
 
 
 ## 🔹راستی آزمایی
-### 🔸پارت 1
+### 🔸پارت 1 - Initial Setup
+
+بررسی اطلاعات اولیه هر دستگاه⬇️
+![Verification - Part 1](Verifications/Verification%20-%20Part%201.png)
+
+### 🔸پارت 2 - VLANs & Layer-2 EtherChannel
+
+بررسی`VTP`و`VLAN`ها⬇️
+![Verification - Part 2.1](Verifications/Verification%20-%20Part%202.1.png)
 
 
-### 🔸پارت 2
+بررسی L2 EtherChannelها⬇️
+![Verification - Part 2.2](Verifications/Verification%20-%20Part%202.2.png)
 
 
-### 🔸پارت 3
+بررسی Trunk Portها⬇️
+![Verification - Part 2.3](Verifications/Verification%20-%20Part%202.3.png)
+
+### 🔸پارت 3 - IP Addressing, Layer-3 EtherChannel & HSRP
+
+بررسی IP Addressها و وضعیت Interfaceها⬇️
+![Verification - Part 3.1](Verifications/Verification%20-%20Part%203.1.png)
 
 
-### 🔸پارت 4
+بررسی L3 EtherChannel⬇️
+![Verification - Part 3.2](Verifications/Verification%20-%20Part%203.2.png)
 
 
-### 🔸پارت 5
+بررسی وضعیت`HSRP`⬇️
+![Verification - Part 3.3](Verifications/Verification%20-%20Part%203.3.png)
+- همه چیز مطابق دستورالعمل ها انجام شده.
 
 
-### 🔸پارت 6
+بررسی ارتباط بین شبکه‌ها⬇️
+![Verification - Part 3.4](Verifications/Verification%20-%20Part%203.4.png)
+
+### 🔸پارت 4 - Rapid Spanning Tree Protocol
+
+بررسی همپوشانی Root Bridge با Active HSRP هر VLAN⬇️
+![Verification - Part 4.1](Verifications/Verification%20-%20Part%204.1.png)
 
 
-### 🔸پارت 7
+بررسی`Port Fast`و`BPDU Guard`روی Access Portها⬇️
+![Verification - Part 4.2](Verifications/Verification%20-%20Part%204.2.png)
+
+### 🔸پارت 5 - Static & Dynamic Routing
+
+بررسی عملکرد`OSPF`⬇️
+![Verification - Part 5.1](Verifications/Verification%20-%20Part%205.1.png)
 
 
-### 🔸پارت 8
+بررسی ارتباط بین کلاینت و سرور⬇️
+![Verification - Part 5.2](Verifications/Verification%20-%20Part%205.2.png)
+
+### 🔸پارت 6 - Network Services
+
+بررسی آدرس‌‎دهی درست DHCP Server و کارکرد DHCP Relay (Helper Address)⬇️
+![Verification - Part 6.1](Verifications/Verification%20-%20Part%206.1.png)
 
 
-### 🔸پارت 9
+بررسی عملکرد`DNS`⬇️
+![Verification - Part 6.2](Verifications/Verification%20-%20Part%206.2.png)
+
+بررسی عملکرد`NTP`⬇️
+![Verification - Part 6.3](Verifications/Verification%20-%20Part%206.3.png)
+>**نکته**:
+>در دستورالعمل‌ها صریحا گفته شده که "`NTP`داخل Packet Tracer **کلی** زمان میبره"؛
+>به همین خاطر، **نمیدونم** اینکه`R1`داره از زمان Local استفاده میکنه یا `DSW-B2`داره از`CSW2`زمان میگیره رو اشتباه بدونم یا Bug‼️
+
+
+بررسی`SNMP`(مجاز بودن`GET`و غیرمجاز بودن`SET`)⬇️
+![Verification - Part 6.4](Verifications/Verification%20-%20Part%206.4.png)
+
+
+بررسی ثبت لاگ‌ها بر`Syslog`روی`SRV1`⬇️
+![Verification - Part 6.5](Verifications/Verification%20-%20Part%206.5.png)
+>**نکته**:
+>اول کار هیچی Log ثبت **نمیشد** و وقتی پی‌ش رو گرفتم، فهمیدم که بخش دستورات مربوط به Logging رو جا انداختم؛ خلاصه که برای همه کانفیگ زدم و **درست** شد‼️
+
+
+بررسی انتقال فایل IOS به Flash، و Boot شدن R1 با نسخه جدید⬇️
+![Verification - Part 6.6](Verifications/Verification%20-%20Part%206.6.png)
+
+
+بررسی عملکرد`SSH`و رد شدن درخواست از PC در Office B⬇️
+![Verification - Part 6.7](Verifications/Verification%20-%20Part%206.7.png)
+>**نکته**:
+>اون اول`PC3`میتونست SSH بزنه، درنتیجه رفتم`sh acc 1`زدم و دیدم هست؛ یه چک کردم و دیدم به`line vty 0 15`**اعمال** نکردم این ACL رو، پس اعمال کردم و **درست** شد‼️
+
+
+بررسی عملکرد`NAT/PAT`⬇️
+![Verification - Part 6.8](Verifications/Verification%20-%20Part%206.8.png)
+
+
+بررسی Failover⬇️
+![Verification - Part 6.9](Verifications/Verification%20-%20Part%206.9.png)
+
+
+بررسی وضعیت`CDP`و`LLDP`⬇️
+![Verification - Part 6.10](Verifications/Verification%20-%20Part%206.10.png)
+
+### 🔸پارت 7 - Security
+
+بررسی Extended ACL که روی DSW-A1 و DSW-A2 گذاشتیم⬇️
+![Verification - Part 7.1](Verifications/Verification%20-%20Part%207.1.png)
+
+
+بررسی`Port Security`و`DHCP Snooping`و`DAI`⬇️
+![Verification - Part 7.2](Verifications/Verification%20-%20Part%207.2.png)
+>**نکته**:
+>داخل Packet Tracer حمله ARP Spoofing عملا قابل راه‌اندازی **نیست**؛ پس خیلی نمیشه تست کرد`DAI`رو‼️
+
+### 🔸پارت 8 - IPv6
+
+بررسی IPv6 Addressها و Routeها⬇️
+![Verification - Part 8](Verifications/Verification%20-%20Part%208.png)
+
+### 🔸پارت 9 - Wireless
+
+بررسی تنظیمات`WLC1`⬇️
+![Verification - Part 9](Verifications/Verification%20-%20Part%209.png)
+>**نکته**:
+>طبق گفته دستورالعمل ها، "دستگاه‌های`LWAP`داخل Packet Tracer آدرس IP که از`WLC1`'گرفتن رو نشون **نمیدن**"؛ ولی درواقع مشکلی روی **عملکرد** کار نداره‼️
 
 
 
